@@ -24,6 +24,9 @@
   "author": "Chee Shian Chuah <shian15810@gmail.com> (https://github.com/shian15810)",
   "type": "module",
   "main": "index.js",
+  "bin": {
+    "is-heroku": "cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
