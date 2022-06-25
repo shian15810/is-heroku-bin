@@ -20,3 +20,7 @@ In your `package.json`:
 }
 ```
 
+## Related Packages
+
+- [is-heroku](https://github.com/sindresorhus/is-heroku) - API for this module
+- [is-ci](https://github.com/watson/is-ci) - Same thing but for other CI environments
