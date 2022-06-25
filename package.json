@@ -1,0 +1,29 @@
+{
+  "name": "is-heroku-bin",
+  "version": "0.1.0",
+  "description": "A CLI to check if your code is running on Heroku",
+  "keywords": [
+    "check",
+    "cli",
+    "bin",
+    "detect",
+    "env",
+    "environment",
+    "heroku",
+    "is"
+  ],
+  "homepage": "https://github.com/shian15810/is-heroku-bin#readme",
+  "bugs": {
+    "url": "https://github.com/shian15810/is-heroku-bin/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shian15810/is-heroku-bin.git"
+  },
+  "license": "MIT",
+  "author": "Chee Shian Chuah <shian15810@gmail.com> (https://github.com/shian15810)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
