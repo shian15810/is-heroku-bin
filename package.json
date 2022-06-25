@@ -27,7 +27,7 @@
     "is-heroku": "cli.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "HEROKU=1 node cli.js"
   },
   "dependencies": {
     "is-heroku": "^3.0.0"
